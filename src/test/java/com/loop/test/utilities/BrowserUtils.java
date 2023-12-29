@@ -47,11 +47,6 @@ public class BrowserUtils {
         driver.switchTo().window(origin);
 
     }
-
-
-
-
-
 }
 
 
